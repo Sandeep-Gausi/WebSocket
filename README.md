@@ -1,2 +1,6 @@
-# websockets-playlist
-All the course files for the WebSockets playlist on The Net Ninja YouTube channel.
+#WebSocket Guide
+
+1. npm init
+2. npm install express --save
+3. npm install socket.io --save
+4. run - node index.js
