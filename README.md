@@ -3,4 +3,4 @@
 1. npm init
 2. npm install express --save
 3. npm install socket.io --save
-4. run - node index.js
+4. node index.js
